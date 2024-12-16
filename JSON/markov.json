@@ -1,1 +1,63 @@
-[ ]
+[
+  {
+    "name": "The gyrator",
+    "pitchSet": {
+      "state": "A3",
+      "matrix": {
+        "C4": [
+          "A4",
+          "E4"
+        ],
+        "A4": [
+          "C4"
+        ],
+        "E4": [
+          "F4"
+        ],
+        "G3": [
+          "A3"
+        ],
+        "A3": [
+          "E4",
+          "C4"
+        ],
+        "F4": [
+          "E3",
+          "A3"
+        ],
+        "E3": [
+          "E3",
+          "C4",
+          "G3"
+        ]
+      }
+    },
+    "rhythmSet": {
+      "state": "4n",
+      "matrix": {
+        "4n": [
+          "4n"
+        ]
+      }
+    }
+  },
+  {
+    "name": "Default Graph",
+    "pitchSet": {
+      "state": "C4",
+      "matrix": {
+        "C4": [
+          "C4"
+        ]
+      }
+    },
+    "rhythmSet": {
+      "state": "4n",
+      "matrix": {
+        "4n": [
+          "4n"
+        ]
+      }
+    }
+  }
+]
